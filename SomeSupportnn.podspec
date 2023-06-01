@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SomeSupportnn'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SomeSupportnn.'
+  s.summary          = 'A seSupportnn.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'NHT18610866107@163.com' => 'NHT18610866107@163.com' }
-  s.source           = { :git => 'https://github.com/NHT18610866107@163.com/SomeSupportnn.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/MasterChatting/SomeSupportnn.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'

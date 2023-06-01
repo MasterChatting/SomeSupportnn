@@ -1,0 +1,22 @@
+{
+  "name": "SomeSupportnn",
+  "version": "0.1.0",
+  "summary": "A seSupportnn.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/NHT18610866107@163.com/SomeSupportnn",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "NHT18610866107@163.com": "NHT18610866107@163.com"
+  },
+  "source": {
+    "git": "https://github.com/MasterChatting/SomeSupportnn.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SomeSupportnn/Classes/**/*"
+}
